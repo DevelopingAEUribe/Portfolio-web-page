@@ -22,7 +22,7 @@ body {
   
   header h2 {
       font-family: 'Montserrat', serif;
-      color: #e3e1dc;
+      color: #013511;
       margin: 0px;
       font-size: 18px;
       text-align: center;
@@ -43,7 +43,7 @@ body {
   
   h1, h2, h3 {
     font-family: 'Montserrat Alternates', sans-serif;
-      color: #38571a;
+      color: #172d02;
     text-align: center;
     font-weight: 500;
   }
@@ -62,10 +62,10 @@ body {
       font-weight: 700;
       text-decoration: none;	
   }
-  a:link { color: #b1dd8c; }
-  a:visited { color: #e4ef65; }
-  a:hover { color: #fec700; }
-  a:active { color: #ffaa00; }
+  a:link { color: #f30707; }
+  a:visited { color: #f7b80a; }
+  a:hover { color: #2600fe; }
+  a:active { color: #009dff; }
   a:hover {
       text-decoration: underline;	
   }
