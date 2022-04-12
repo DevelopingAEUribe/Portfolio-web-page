@@ -20,16 +20,17 @@ body {
     padding: 20px 0 0 0;
   }
   
-  header h2 {
+  header h2,h3 {
       font-family: 'Montserrat', serif;
-      color: #013511;
+      color: #b1dd8c;
       margin: 0px;
       font-size: 18px;
       text-align: center;
   }
   
   footer {
-      background-color: #77bb41;
+      height: 60px;
+      background-color: #38571a;
       background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
   
   }
@@ -41,9 +42,9 @@ body {
   
   /* -------  Type ------- */
   
-  h1, h2, h3 {
+  h1, h2 {
     font-family: 'Montserrat Alternates', sans-serif;
-      color: #172d02;
+      color: #0a4604;
     text-align: center;
     font-weight: 500;
   }
