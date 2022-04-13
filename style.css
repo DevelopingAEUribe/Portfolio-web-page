@@ -1,15 +1,16 @@
+/* Placing a background and choosing a font*/
 body {
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
       background-image:url(images/backgrounds/subtle_white_mini_waves.png);
   }
-  
+  /*Setting a height and background color for the header*/
   header {
       height: 140px;
       background-color: #38571a;
       background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
   }
-  
+  /*Choosing a ont, formatting and color for logo*/
   .logo {
     font-family: 'Nanum Pen Script', cursive;
     font-size: 72px;
@@ -19,7 +20,7 @@ body {
     margin: 0;
     padding: 20px 0 0 0;
   }
-  
+  /*Header 2 and 3 formatting and color*/
   header h2,h3 {
       font-family: 'Montserrat', serif;
       color: #b1dd8c;
@@ -27,7 +28,7 @@ body {
       font-size: 18px;
       text-align: center;
   }
-  
+  /*Formatting and background for the footer*/
   footer {
       height: 60px;
       background-color: #38571a;
@@ -40,8 +41,7 @@ body {
     margin: 80px 0;
   }
   
-  /* -------  Type ------- */
-  
+  /* Heading formatting */
   h1, h2 {
     font-family: 'Montserrat Alternates', sans-serif;
       color: #0a4604;
@@ -63,6 +63,7 @@ body {
       font-weight: 700;
       text-decoration: none;	
   }
+  /*Styling links*/
   a:link { color: #f30707; }
   a:visited { color: #f7b80a; }
   a:hover { color: #2600fe; }
@@ -75,7 +76,7 @@ body {
     font-weight: bold;
     font-style: normal;
   }
-  
+  /*Footer formatting*/
   footer p {
       color: #fff;	
       text-align: center;
