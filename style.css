@@ -65,7 +65,7 @@ body {
   }
   /*Styling links*/
   a:link { color: #f30707; }
-  a:visited { color: #f7b80a; }
+  a:visited { color: red; }
   a:hover { color: #2600fe; }
   a:active { color: #009dff; }
   a:hover {
